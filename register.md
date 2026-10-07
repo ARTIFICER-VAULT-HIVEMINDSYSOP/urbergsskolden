@@ -32,8 +32,8 @@ Varje ny tråd börjar med att läsa den här filen. Det som inte står här är
 - Jaktdialogens utfall.
 - Skogsbruksplanen.
 - Skyddsavstånd till Storsjö 9:1 vid stug- och vägarbeten.
-- Handover-dokument per intressant chatt.
-- Handover-dokument per intressant chatt.
+- Bilderna laddas upp till repot och länkarna uppdateras i handover.md.
+- Handover-dokument för andra intressanta chattar, om de finns.
 
 ## Källor att stå på
 
